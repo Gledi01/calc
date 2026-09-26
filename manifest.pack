@@ -1,0 +1,8 @@
+name : Calculator
+version : 1.0
+description : Simple calculator for V-Core
+author : V-Core
+license : MIT
+type : application
+run : app/package.v
+icon : app/assets/icon.svg
